@@ -1,1 +1,2 @@
 # RomanCalculator
+Asked user for what type of arthimetic they want to do. Asks the user for a Roman Numeral for both operands and then coverts the Roman Numeral to an integer does the arthimetic and then returns the result as a Roman Numberal. 
